@@ -5202,12 +5202,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16c067deeee044b23a86e66524596fc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
+  player: {fileID: 1855204263}
   respawnTime: 3
   respawnInvulnerabilityTime: 3
   lives: 3
   score: 0
-  explosion: {fileID: 0}
+  explosion: {fileID: 309449215}
 --- !u!4 &1101578939
 Transform:
   m_ObjectHideFlags: 0
