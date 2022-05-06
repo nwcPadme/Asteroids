@@ -7,6 +7,8 @@ public class Asteroid : MonoBehaviour
     [Header("Asteroids sprites")]
     public Sprite[] sprites;
 
+
+
     private SpriteRenderer _spriteRenderer;
     private Rigidbody2D _rigidbody;
 
